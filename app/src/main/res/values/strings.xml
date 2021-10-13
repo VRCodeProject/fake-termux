@@ -1,4 +1,3 @@
 <resources>
     <string name="app_name">Termux Plugin</string>
-    <string name="user_label">top.vrcode user</string>
 </resources>
