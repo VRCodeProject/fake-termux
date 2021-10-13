@@ -8,8 +8,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:installLocation="internalOnly"
-        android:sharedUserId="VRCode"
-        android:sharedUserLabel="VRCode user"
+        android:sharedUserId="top.vrcode"
+        android:sharedUserLabel="top.vrcode user"
         />
 
 </manifest>
