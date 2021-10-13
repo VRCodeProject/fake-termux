@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:installLocation="internalOnly"
         android:sharedUserId="top.vrcode"
-        android:sharedUserLabel="top.vrcode user"
+        android:sharedUserLabel="@string/user_label"
         />
 
 </manifest>
